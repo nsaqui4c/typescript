@@ -166,3 +166,5 @@ class Person implements PersonInterface {   // another use of interface. we can 
 type tyyy = number    // this will work
 
 ```
+
+![image](https://github.com/user-attachments/assets/e8314b96-cef0-420d-96dc-6790b59b7cf0)
