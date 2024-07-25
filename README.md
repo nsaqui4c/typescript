@@ -167,5 +167,8 @@ type tyyy = number    // this will work
 
 ```
 
+* types
+  * primitive -> number boolean void undefined string symbol null
+  * Object types -> functions arrays classes object
 
 
