@@ -172,3 +172,8 @@ type tyyy = number    // this will work
   * Object types -> functions arrays classes object
 
 
+* Array vs Tuple
+  * const arr :(string|number|boolean)[] = ['',50,true,"hello"]
+    * this represent an array which can contain string or number or boolean
+  * const tupple:[string,number,boolean] = ["data",60.false]
+    * tupple has specific order for item.
