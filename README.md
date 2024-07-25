@@ -167,5 +167,5 @@ type tyyy = number    // this will work
 
 ```
 
-![image](https://github.com/user-attachments/assets/4a2938b4-ce87-4521-aa82-14997d78d685)
+
 
